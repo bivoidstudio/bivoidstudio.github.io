@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>bivoid&#39;s blog</title>
-  <icon>http://example.com/icon.png</icon>
-  <subtitle>subtitle</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <icon>https://bivoidstudio.github.io/icon.png</icon>
+  <subtitle>Coding, Trading, Reading</subtitle>
+  <link href="https://bivoidstudio.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://bivoidstudio.github.io/"/>
   <updated>2025-05-11T15:26:20.374Z</updated>
-  <id>http://example.com/</id>
+  <id>https://bivoidstudio.github.io/</id>
   
   <author>
     <name>bivoid</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/05/11/hello-world/"/>
-    <id>http://example.com/2025/05/11/hello-world/</id>
+    <link href="https://bivoidstudio.github.io/2025/05/11/hello-world/"/>
+    <id>https://bivoidstudio.github.io/2025/05/11/hello-world/</id>
     <published>2025-05-11T14:14:51.000Z</published>
     <updated>2025-05-11T15:26:20.374Z</updated>
     
